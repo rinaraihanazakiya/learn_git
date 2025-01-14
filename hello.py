@@ -1,1 +1,2 @@
-print("Hello Ganteng!")
+print("Hello Cantik!")
+print ("Hello panda")
